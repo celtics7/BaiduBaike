@@ -11,10 +11,10 @@ data format：
 index entity1 entity2 label sentence
 
 relation id:
-0 relative
+0 kinship
 1 couple
 2 friends/colleague
-3 classmate
+3 classimate/schoolmate
 4 antagonism/competition	
 5 student-teacher
 6 NA
